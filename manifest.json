@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "TazeDirek2Cat",
+  "description": "Tazadirekt ile ilgili facebook içerigini KEDI ile degistirir.",
+  "version": "1.0",
+  "content_scripts": [
+    {
+      "matches": ["https://www.facebook.com/*"],
+      "js": ["tazedirek.js"],
+      "run_at": "document_end",
+      "all_frames": false
+    }
+  ]
+}
