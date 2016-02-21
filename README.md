@@ -1,6 +1,6 @@
 # TazeDirek2Cat
 
-Tazadirekt ile ilgili facebook içerigini KEDI ile degisitiren chrome eklentisi.
+Tazedirekt ile ilgili facebook içerigini KEDI ile degisitiren chrome eklentisi.
 
 ![ScreanShot](https://raw.githubusercontent.com/sumnulu/TazeDirek2Cat/master/out2.gif)
 
